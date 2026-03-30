@@ -214,11 +214,11 @@ footer {
 
 В WordPress используются специальные функции для подключения повторяющихся блоков:
 
-header - <?php get_header(); ?>
+header - ```<?php get_header(); ?>```
 
-footer - <?php get_footer(); ?>
+footer - ```<?php get_footer(); ?>```
 
-sidebar - <?php get_sidebar(); ?>
+sidebar - ```<?php get_sidebar(); ?>```
 
 Получается, вместо дублирования кода на каждой странице, создаются необходимые файлы и они подключаются с помощью этих функций.
 
