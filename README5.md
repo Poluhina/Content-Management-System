@@ -30,11 +30,9 @@
 Защитите wp-config.php, добавив в .htaccess: <files wp-config.php> order allow,deny deny from all </files>
 
 # Шаг 5. Установка и первичная настройка All In One WP Security & Firewall (AIOS)
-Установите и активируйте плагин All In One WP Security & Firewall.
+Вначале необходимо установить и активировать плагин All In One WP Security & Firewall.
 
-Перейдите в раздел плагина в админ-панели.
-
-Настройте следующие параметры:
+Для этого необходимо перейти в раздел плагина в админ-панели и настроить следующие параменты:
 
 User Login:
 
